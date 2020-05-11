@@ -16,10 +16,10 @@ wget https://drive.google.com/uc?export=download&id=1vTWXF-3PRKPYK4xU66odVG8O3ty
 # unzip glove.6B.zip
 # mv glove.6B.*.txt glove/
 # rm glove.6B.zip
-weget https://drive.google.com/uc?export=download&id=1nn_KEF_AF0XsNzp6b58a3-r8vRUFSqdY
-unzip bio_embedding_extrinsic.txt.zip
-mv bio_embedding_extrinsic.txt bio/
-rm bio_embedding_extrinsic.txt.zip
+# weget https://drive.google.com/uc?export=download&id=1nn_KEF_AF0XsNzp6b58a3-r8vRUFSqdY
+# unzip bio_embedding_extrinsic.txt.zip
+# mv bio_embedding_extrinsic.txt bio/
+# rm bio_embedding_extrinsic.txt.zip
 
 echo
 echo "done!"
